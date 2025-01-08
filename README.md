@@ -6,8 +6,11 @@ create a virtual  environment
 *** pip install -r requirements.txt
 
 *** install Pytesseract surport in linux 
-    sudo apt install tesseract-ocr-kan 
+    $ sudo apt install tesseract-ocr-kan 
+     ** for mac 
+     $ brew install tesseract
+
 
 ** runnning the application
     fastapi dev main 
-    
+
